@@ -4,7 +4,7 @@
 ### This project is a Sudoku game simulator implemented in Java. The game offers three difficulty levels: Easy (4x4 grid), Medium (6x6 grid), and Hard (9x9 grid). The application generates a Sudoku puzzle with a specified number of pre-filled cells for each difficulty level, ensuring a unique challenge every time. Users can attempt to solve the puzzle, check their solution, or have the system solve it for them.
 
 ## Features
-###Three Difficulty Levels:
+### Three Difficulty Levels:
 
 #### Easy (4x4 grid with 4 pre-filled cells)
 #### Medium (6x6 grid with 8 pre-filled cells)
